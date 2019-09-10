@@ -36,7 +36,7 @@ export default {
 
 查看 [etag](https://www.npmjs.com/package/etag) 文档来了解更多配置。
 
-### compressor
+## compressor
 - 类型 `Object`
   - 默认: `{ threshold: 0 }`
 
@@ -52,7 +52,7 @@ export default {
 
 如果要禁用其中一个或两者，则可以传递`false`。
 
-### http2
+## http2
 - 类型 `Object`
   - 默认: `{ push: false }`
 
